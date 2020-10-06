@@ -9,3 +9,5 @@ bakalim conflict nasil olacak?
 yeni bir satir ekliyorum.
 haydaa
 al sana haydaa
+
+once bu degisiklik
