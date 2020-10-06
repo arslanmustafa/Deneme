@@ -7,3 +7,5 @@ bir daha commit ediyorum
 
 bakalim conflict nasil olacak?
 yeni bir satir ekliyorum.
+
+haydaa
