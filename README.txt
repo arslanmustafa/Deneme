@@ -12,3 +12,5 @@ al sana haydaa
 
 once bu degisiklik
 daha sonra bu degisiklik
+
+birinci commit (yeni comment geldi)
